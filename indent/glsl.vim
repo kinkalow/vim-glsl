@@ -5,7 +5,9 @@ if exists("b:did_indent")
   finish
 endif
 
-setlocal autoindent cindent
-setlocal formatoptions+=roq
+" --- Improved 1/1 --------------------
+"setlocal autoindent cindent
+"setlocal formatoptions+=roq
+" -------------------------------------
 
 " vim:set sts=2 sw=2 :
